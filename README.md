@@ -26,11 +26,4 @@ Interactive operational dashboards built in Microsoft Excel to track revenue per
 
 ![Inventory Management Dashboard](Inventory%20Management%20Dashboard.png)
 
-*Working Spreadsheet:* [`Interactive_Inventory_Dashboard.xlsx`](Interactive_Inventory_Dashboard.xlsx)
-
----
-
-## 🛠️ Technical Competencies Demonstrated
-* **Spreadsheet Engineering:** Advanced Excel, PivotTables, formula logic, and data normalization.
-* **MIS Visualization:** Interactive slicers, KPI metric tiles, conditional formatting, and executive summary grids.
-* **Operational Reporting:** Working capital tracking, inventory turnover, and fulfillment monitoring.
+*Working Spreadsheet:* [Inventory Management.xlsx](Inventory%20Management.xlsx)
