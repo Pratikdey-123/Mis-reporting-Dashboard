@@ -27,3 +27,14 @@ Interactive operational dashboards built in Microsoft Excel to track revenue per
 ![Inventory Management Dashboard](Inventory%20Management%20Dashboard.png)
 
 *Working Spreadsheet:* [Inventory Management.xlsx](Inventory%20Management.xlsx)
+
+---
+
+## 📊 3. Executive Sales & Cash Realization Dashboard
+**Domain:** Operational Revenue Diagnostics & Receivables Audit
+
+* **Commercial Scale:** Monitored **₹22.3M** in gross revenue across 5 regions with a **35.0%** profit margin.
+* **Collections Diagnostics:** Tracked **₹19.5M** cash realized against **₹980.8K** in at-risk overdue receivables.
+* **Audit Ledger:** Granular customer payment tracking across regional distribution channels.
+
+🔗 **[Open Interactive Live Mobile Dashboard](https://datastudio.google.com/s/g0x91yhg68Y)**
